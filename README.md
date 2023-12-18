@@ -1,4 +1,7 @@
-### Hi there 👋
+- 👋 Hi, I'm Rose! 
+- 🎓 I'm getting my PhD in Communications at Columbia University
+- 📚 I use qualitative methods to study digital media and culture 
+- 🐈‍⬛ Any and all typos can be attributed to my house panther 
 
 <!--
 **seerosem7/seerosem7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
